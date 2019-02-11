@@ -1,2 +1,2 @@
 # Behavioural_Cloning_Self_Driving_Car
-Building a model to drive a simulation car autonomously. 
+Building a model to drive a simulation car autonomously. The data was recorded and tested using [Udacity Self Driving Car Simulator](https://github.com/udacity/self-driving-car-sim). This project is from [The Complete Self-Driving Car Course](https://www.udemy.com/share/100qWOCEUed1hXRw==/). Here is the link to my [dataset](https://github.com/CJL810/BH_Dataset) recorded from the simulator. Model was built using Keras.
